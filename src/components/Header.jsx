@@ -33,13 +33,13 @@ export const Header = () => {
             <a data-aos="fade-down"
                 data-aos-easing="linear"
                 data-aos-duration="1500"  className="text-base tracking-wider transition-colors hover:text-gray-300 z-50" href="#">
-                FEATURES
+                CARACTERÍSTICAS
             </a>
 
             <a data-aos="fade-down"
                 data-aos-easing="linear"
                 data-aos-duration="2000" className="text-base tracking-wider transition-colors hover:text-gray-300 z-50" href="#">
-                CARACTERÍSTICAS
+                RECURSOS
             </a>
 
             <a data-aos="fade-down"
@@ -69,11 +69,11 @@ export const Header = () => {
                 </a>
                 
                 <a className="text-base tracking-wider transition-colors hover:text-gray-300 z-50" href="#">
-                    FEATURES
+                    CARACTERÍSTICAS
                 </a>
 
                 <a className="text-base tracking-wider transition-colors hover:text-gray-300 z-50" href="#">
-                    CARACTERÍSTICAS
+                    RECURSOS
                 </a>
 
                 <a className="text-base tracking-wider transition-colors hover:text-gray-300 z-50" href="#">
